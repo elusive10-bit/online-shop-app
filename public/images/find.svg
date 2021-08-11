@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 50.0 50.0"
+   height="50.0px"
+   width="50.0px"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="find.svg">
+  <defs
+     id="defs833" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="12.423702"
+     inkscape:cy="42.165736"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1371"
+     inkscape:window-height="1041"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       id="grid1403"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 20.1733,1.0119306 a 18.420694,18.420694 0 0 0 -13.1969242,5.3938018 18.420694,18.420694 0 0 0 0,26.0519316 18.420694,18.420694 0 0 0 24.4483682,1.425977 L 45.20213,47.663679 c 0.671263,0.671261 1.753962,0.671263 2.425224,0 0.671263,-0.671263 0.671261,-1.751311 0,-2.422572 L 33.902978,31.516729 A 18.420694,18.420694 0 0 0 33.025656,6.4083829 18.420694,18.420694 0 0 0 20.1733,1.0119306 Z m -0.363121,3.9413186 a 14.479523,14.479523 0 0 1 10.429784,4.2381766 14.479523,14.479523 0 0 1 0,20.4778932 14.479523,14.479523 0 0 1 -20.4778939,0 14.479523,14.479523 0 0 1 -0.0053,-20.4699417 14.479523,14.479523 0 0 1 0.0053,-0.00795 14.479523,14.479523 0 0 1 10.0481099,-4.2381766 z"
+       style="fill:#ff7f2a;fill-opacity:1;stroke-width:2.71413"
+       id="path860" />
+  </g>
+</svg>
