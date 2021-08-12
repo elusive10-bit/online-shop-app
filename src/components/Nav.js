@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Container = styled.div`
+	position: relative;
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
@@ -15,7 +16,7 @@ const Container = styled.div`
 	}
 `
 
-export default function Nav(props) {
+export default function Nav({ showCartNav, setShowCartNav }) {
 	return (
 		<Container>
 			<img
@@ -24,7 +25,13 @@ export default function Nav(props) {
 				width='50'
 				height='50'
 			/>
-			<img src='images/cart.svg' alt='dummy logo' width='40' height='40' />
+			<img
+				src='images/cart.svg'
+				alt='dummy logo'
+				width='40'
+				height='40'
+				onClick={() => setShowCartNav(!showCartNav)}
+			/>
 		</Container>
 	)
 }

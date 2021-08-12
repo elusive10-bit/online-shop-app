@@ -28,6 +28,12 @@ const Products = (props) => {
 			<Product />
 			<Product />
 			<Product />
+			<Product />
+			<Product />
+			<Product />
+			<Product />
+			<Product />
+			<Product />
 		</Container>
 	)
 }
